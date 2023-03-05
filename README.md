@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeelbhatt
-- 👀 I’m interested in Robotics and Math.
-- 🌱 I’m currently learning Robotics and Control system and looking to collaborate on same
+- 👀 Research in Robotics and Mathematics.
+
 - 📫 How to reach me zeelbhatt00@gmail.com
 
 <!---
