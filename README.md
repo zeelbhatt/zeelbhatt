@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @zeelbhatt
-- 👀 Research in Robotics and Mathematics.
-
 - 📫 How to reach me zeelbhatt00@gmail.com
 
 <!---
